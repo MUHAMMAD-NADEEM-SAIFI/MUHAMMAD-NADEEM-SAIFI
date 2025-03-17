@@ -24,8 +24,6 @@
 
   <td align='center' width="200">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"  >
-    </td>
- 
 <tr>
     <td align='center'>
         <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2Fmain-qimg-28cadbd02699c25a88e5c78d73c7babc.webp?alt=media&token=e03aae20-c058-41a3-942b-162fdc622bd5">
