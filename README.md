@@ -8,9 +8,9 @@
 
 🤵 Studying at @SMIT 🤖
 	
-👨‍💻 AI Engineer CargoAI
+👨‍💻 I'm currently learning GenAI and Chatbot Developement.
 	
-💸 Help 80+ Clients via Generative AI & Automation
+💸 I'm looking to collaborate on Projects
 
 📧 Book free 1v1 consultation https://www.linkedin.com/in/muhammad-nadeem-501887189/
  
