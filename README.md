@@ -23,16 +23,7 @@
     </td>
 
   <td align='center' width="200">
-        <img src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo-2011.png"  >
-    </td>
- <td align='center' width="200">
-        <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2Fnextjs-icon-dark-background.png?alt=media&token=fe7213b5-5848-4391-b293-77118f3cb456">
-    </td>
- <td align='center' width="200">
-        <img src="https://www.svgrepo.com/show/353648/dialogflow.svg" width="100">
-    </td>
- <td align='center' width="200">
-        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"  >
     </td>
  
 </tr>
