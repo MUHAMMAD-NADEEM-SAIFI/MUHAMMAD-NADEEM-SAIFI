@@ -3,7 +3,7 @@
     <h1> Hi there, I'm MUHAMMAD NADEEM👋</h1>
   </div>
 <p align="center">
-<a href="https://github.com/MUHAMMAD-NADEEM-SAIFI"><img src="https://readme-typing-svg.herokuapp.com/?lines=Studing GenAI;Mern+Stack+Developer&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
+<a href="https://github.com/MUHAMMAD-NADEEM-SAIFI"><img src="https://readme-typing-svg.herokuapp.com/?lines*Studing*GenAI;Mern+Stack+Developer&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
 	
 
 🤵 Studying at @SMIT 🤖
